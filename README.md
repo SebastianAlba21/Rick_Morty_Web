@@ -2,6 +2,11 @@
 
 ¡Bienvenido a la aplicación de Rick y Morty! Esta es una aplicación que te permite explorar información sobre los personajes de la famosa serie de televisión Rick y Morty.
 
+## Capturas de pantalla
+
+![Captura de pantalla 1](/screenshots/Screenshot.png)
+_Página principal._
+
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/SebastianAlba21/Rick_Morty_Web/`
