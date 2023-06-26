@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
+vite.config.js.timestamp-1687790562612-4cc1541313882.mjs
 dist-ssr
 *.local
 
