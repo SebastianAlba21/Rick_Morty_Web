@@ -6,7 +6,7 @@ const Header = () => {
 				src="../img/Rick-And-Morty.png"
 				alt="Rick y Morty logo"
 			/>
-			<div className="flex flex-col justify-between text-white text-lg md:text-3xl gap-2 md:gap-5 text-center font-Creepster font-bold">
+			<div className="flex flex-col justify-between text-white text-lg md:text-3xl gap-2 md:gap-5 text-center font-Creepster font-bold select-none">
 				<h1 className="">Rick y Morty</h1>
 				<hr className="border-white border-2" />
 				<span>¡Busca tú personaje favorito!</span>

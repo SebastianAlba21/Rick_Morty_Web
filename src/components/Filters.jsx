@@ -19,15 +19,15 @@ const Filters = () => {
 	return (
 		<div className="w-full h-auto flex flex-col">
 			<div className="w-full h-auto flex flex-col gap-5 sm:flex-row justify-evenly items-center text-center py-10 px-10 text-base lg:text-xl font-Creepster font-semibold">
-				<span className="text-white">Filtrar por nombre</span>
+				<span className="text-white select-none">Filtrar por nombre</span>
 				<input
-					className="h-10 rounded-md px-2"
+					className="h-10 rounded-md px-2 select-none"
 					type="text"
 					value={inputValue}
 					onChange={handleFilterName}
 					placeholder="Ej. Morty"
 				/>
-				<span className="text-white">Filtrar por especie</span>
+				<span className="text-white select-none">Filtrar por especie</span>
 				<select
 					name=""
 					id=""
